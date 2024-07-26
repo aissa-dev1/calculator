@@ -39,7 +39,7 @@ function AboutSection() {
         Check out the project on{" "}
         <a
           class="text-accent-color dark:text-accent-color-dark"
-          href="https://github.com/"
+          href="https://github.com/aissa-dev1/calculator"
           target="_blank"
         >
           Github
